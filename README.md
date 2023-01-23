@@ -16,16 +16,16 @@ For Example:sunflower: The below list of characters is sorted in increasing orde
 - How to select the best sorting algorithm for a given input
 - What is a stable sorting algorithm
 
-## Tests Files :file_folder:
+## Tests Files :page_with_curl:
 
 * [tests](./tests): Folder of test files. 
 
-## Helper Files :file_folder:
+## Helper Files :page_with_curl:
 
 * [print_array.c](./print_array.c): C function that prints an array of integers. 
 * [print_list.c](./print_list.c): C function that prints a `listint_t` doubly-linked list. 
 
-## Header Files :file_folder:
+## Header Files :page_with_curl:
 
 * [sort.h](./sort.h): Header file containing definitions and prototypes for all types and functions written for the project.
 
